@@ -8,7 +8,6 @@
 
 가상환경 설정
 
-    $ git clone https://github.com/RustPython/RustPython
     $ pyenv virtualenv 3.6.0 [virtualenv name]
     $ pyenv activate [virtualenv name]
   
