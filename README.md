@@ -7,8 +7,9 @@
 ## Getting start
 
 가상환경 설정
-  $ pyenv virtualenv 3.6.0 [virtualenv name]
-  $ pyenv activate [virtualenv name]
+    $ git clone https://github.com/RustPython/RustPython
+    $ pyenv virtualenv 3.6.0 [virtualenv name]
+    $ pyenv activate [virtualenv name]
   
 레포지토리 
-  $ git clone https://github.com/kwonhyeokmin/Sweetk_Analysis.git
+    $ git clone https://github.com/kwonhyeokmin/Sweetk_Analysis.git
